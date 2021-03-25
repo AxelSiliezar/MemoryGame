@@ -40,6 +40,7 @@ I could change the overall design as I belive the interaction could be more mode
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://imgur.com/xBtx0z3.gif)
 
 
